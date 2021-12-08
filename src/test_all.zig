@@ -1,5 +1,4 @@
 test {
-    _ = @import("util.zig");
     _ = @import("day01.zig");
     _ = @import("day02.zig");
     _ = @import("day03.zig");
@@ -25,5 +24,4 @@ test {
     _ = @import("day23.zig");
     _ = @import("day24.zig");
     _ = @import("day25.zig");
-    // Import any other files with tests here
 }
